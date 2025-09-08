@@ -310,7 +310,3 @@ Nu har du en professionell projektstruktur där du kan:
 
 **Nästa steg:** Öppna `planning/del-1-produktagare/` och börja med första delen av övningen!
 
-## Få hjälp
-- **VS Code problem:** Fråga läraren eller en klasskamrat
-- **Git problem:** [GitHub Docs](https://docs.github.com)
-- **HTML/CSS/JS referens:** [MDN Web Docs](https://developer.mozilla.org)
