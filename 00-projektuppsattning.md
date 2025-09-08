@@ -264,15 +264,6 @@ git commit -m "Initial project setup: Add folder structure and documentation"
 git push origin main
 ```
 
-### 5.2 Skapa en utvecklingsbranch (valfritt men rekommenderat)
-```bash
-# Skapa och växla till utvecklingsbranch
-git checkout -b development
-
-# Pusha utvecklingsbranchen
-git push -u origin development
-```
-
 ## Arbetsflöde under projektet
 
 ### Daglig rutin:
